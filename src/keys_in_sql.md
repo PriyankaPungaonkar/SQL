@@ -6,7 +6,8 @@ It is used to fetch or retrieve records/data-rows from data table according to t
 
 Keys are also used to create a relationship among different database tables or views.
 
-![SQL Keys](images\sqlkeys.png)
+### Example : 
+![SQL Keys](/images/sqlkeys.png)
 
 
 We have following types of keys in SQL which are used to fetch records from tables and to make relationship among tables or views.
