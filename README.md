@@ -7,7 +7,7 @@
 ## 5. [Codd Rules](src/codd_rules.md)
 ## 6. [Keys in SQL](src/keys_in_sql.md)
 ## 7. [Normalization in SQL]()
-* [Functional Dependencies](src/functional_dependencies.md) 
+* [Functional Dependencies](src/functional_dependencies.md) | [Examples](src/functional_dependencies_examples.md) 
 * [Armstrong Axioms](src/armstrong_axioms.md)
 * [Closure set of attributes](src/closure_set_of_attributes.md)
 * [Canonical Cover / Minimal set / Irreducible set](src/canonical_cover.md)
