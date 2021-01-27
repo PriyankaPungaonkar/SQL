@@ -136,7 +136,7 @@ This dependence can be represented like this:
 
 `car_model-> colour` 
 
-For practicing functional dependency, please click [Functional Dependency Examples](src/functional_dependencies_examples.md)
+For practicing functional dependency, please click [Functional Dependency Examples](functional_dependencies_examples.md)
 
 Reference : [Functional Dependency in DBMS](https://www.youtube.com/watch?v=wez3fXrjBAE&list=PLeNFpOhruv2iM5EFv04SH4d84AO9WD2bA)
 
