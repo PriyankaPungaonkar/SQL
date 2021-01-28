@@ -9,7 +9,6 @@
 ## 7. [Normalization in SQL]()
 * [Functional Dependencies](src/functional_dependencies.md) | [Examples](src/functional_dependencies_examples.md) 
 * [Armstrong Axioms](src/armstrong_axioms.md) | [Examples](src/closure_set_of_attributes_examples.md) 
-* [Closure set of attributes](src/closure_set_of_attributes.md)
 * [Canonical Cover / Minimal set / Irreducible set](src/canonical_cover.md)
 * [First normal form 1NF](src/first_normal_form.md)
 * [Second normal form 2NF](src/second_normal_form.md)
