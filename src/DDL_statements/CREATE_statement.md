@@ -79,7 +79,7 @@ SUBJECT varchar(20),
 
 ## Adding constraints while creating a table
 
-We can add [constraints](Chapter_1/constraints.md) to fields while creating a table as follows.
+We can add [constraints](src/Chapter_1/constraints.md) to fields while creating a table as follows.
 
 Example :
 ```sql
@@ -111,6 +111,6 @@ mysql> DESC Students;
 mysql>
 ```
 
-For examples and practice questions, please click [Examples](/Examples/CREATE_table_examples.md)
+For examples and practice questions, please click [Examples](src/Examples/CREATE_table_examples.md)
 
 
