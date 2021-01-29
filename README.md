@@ -17,8 +17,8 @@
 * [Third normal form 3NF](src/Normalization/third_normal_form.md)
 * [Boyce Codd normal form BCNF](src/Normalization/boyce_codd_normal_form.md)
 ## 8. Data definition Language
-* [CREATE statement](src/DDL_statements/CREATE_statement.md)
-* [DORP statement](src/DDL_statements/DROP_statement.md)
+* [CREATE statement](src/DDL_statements/CREATE_statement.md) | [Practice Examples](src/Examples/CREATE_table_examples.md)
+* [DROP statement](src/DDL_statements/DROP_statement.md)
 * [ALTER statement](src/DDL_statements/ALTER_statement.md)
 * [TUNCATE statment](src/DDL_statements/TRUNCATE_statement.md)
 * [COMMENT statement](src/DDL_statements/COMMENT_statement.md)
