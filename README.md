@@ -1,4 +1,4 @@
-# Table of contents
+<CENTER><H1>Table of contents</H1></CENTER>
 
 ## 1. Fundamentals of SQL
 * [Introduction](src/Chapter_1/Introduction.md)
