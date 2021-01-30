@@ -16,6 +16,7 @@
 * [Second normal form 2NF](src/Normalization/second_normal_form.md)
 * [Third normal form 3NF](src/Normalization/third_normal_form.md)
 * [Boyce Codd normal form BCNF](src/Normalization/boyce_codd_normal_form.md)
+
 ## 3. Data definition Language
 * [CREATE statement](src/DDL_statements/CREATE_statement.md) | [Practice Examples](src/Examples/CREATE_table_examples.md)
 * [DROP statement](src/DDL_statements/DROP_statement.md)
