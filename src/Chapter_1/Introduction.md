@@ -31,4 +31,4 @@ References for this repository are taken from :
 * https://phoenixnap.com/kb/
 
 
-[Table of Contents](/README.md) | [Next](src/Chapter_1/datatypes.md)
+[Table of Contents](/README.md) | [Next](/src/Chapter_1/datatypes.md)
