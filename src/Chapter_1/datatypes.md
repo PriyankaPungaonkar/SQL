@@ -60,3 +60,5 @@ YEAR|A year in four-digit format. Values allowed in four-digit format: 1901 to 2
 
 
 ### Note : Above listed datatypes are MySQL datatypes. They can vary according to various databases.
+
+[Home](/README.md) |  [Prev](src/Chapter_1/Introduction.md) | [Next](src/Chapter_1/constraints.md)

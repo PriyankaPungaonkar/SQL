@@ -29,3 +29,6 @@ References for this repository are taken from :
 * https://www.w3schools.com/SQL/default.asp
 * https://www.youtube.com/watch?v=eTiP-H9GQ30&list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV
 * https://phoenixnap.com/kb/
+
+
+[Table of Contents](/README.md) | [Next](src/Chapter_1/datatypes.md)
