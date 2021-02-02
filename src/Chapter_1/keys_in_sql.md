@@ -50,4 +50,4 @@ Foreign Key is a field in a database table that is `Primary key in another table
 
 **Example:** We can have a DeptID column in the Employee table which is pointing to a DeptID column in a department table where it a primary key.
 
-
+[Home](/README.md) | [Prev](/src/Chapter_1/keys_in_sql.md)) | Next](/src/Normalization/functional_dependencies.md)

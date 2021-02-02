@@ -51,3 +51,5 @@ The end-user must not be able to see that the data is distributed over various l
 ## Rule 12: Non-Subversion Rule
 
 If a system has an interface that provides access to low-level records, then the interface must not be able to subvert the system and bypass security and integrity constraints.
+
+[Home](/README.md) | [Prev](/src/Chapter_1/types_of_statements.md) | [Next](src/Chapter_1/keys_in_sql.md)
